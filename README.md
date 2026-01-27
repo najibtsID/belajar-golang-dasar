@@ -47,9 +47,8 @@ go run filename.go
 
 👤 Author
 
-Najib Tri Setiawan
-Student – Learning Golang
+Najib Tri Setiawan | Student – Learning Golang
 
 -----------------------------------------------------------------------------------------
 This repository is kept public as a personal archive that can be revisited in the future.
------------------------------------------------------------------------------------------
+
